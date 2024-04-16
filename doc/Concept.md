@@ -89,7 +89,9 @@
 ### Demo
 ## Minikube
 
-<script src="https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9.js" id="asciicast-654339" async="true"></script>
+[![asciicast](https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9.svg)](https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9)
+<asciinema-player src="https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9.js" autoplay></asciinema-player>
+
 
 ## Kind
 
