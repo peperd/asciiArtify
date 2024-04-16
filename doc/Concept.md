@@ -88,11 +88,15 @@
 
 ### Demo
 ## Minikube
-[![asciicast](https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9.svg)](https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9)
+
+<script src="https://asciinema.org/a/0FpWLUfPqdPCMLN1mUAVda1W9.js" id="asciicast-654339" async="true"></script>
+
 ## Kind
-[![asciicast](https://asciinema.org/a/ttH26CR5yGyndUgigatDAijz0.svg)](https://asciinema.org/a/ttH26CR5yGyndUgigatDAijz0)
+
+<script src="https://asciinema.org/a/ttH26CR5yGyndUgigatDAijz0.js" id="asciicast-654501" async="true"></script>
+
 ## K3D
-[![asciicast](https://asciinema.org/a/RCSfPU7aTKOL8gtYQ4kvMTSw8.svg)](https://asciinema.org/a/RCSfPU7aTKOL8gtYQ4kvMTSw8)
+<script src="https://asciinema.org/a/RCSfPU7aTKOL8gtYQ4kvMTSw8.js" id="asciicast-654507" async="true"></script>
 
 # Conclusions
 In summary, Minikube is great for local development and testing, while Kind and K3d offer lightweight alternatives with Docker-based clusters. The choice depends on your specific use case and requirements, such as scalability, feature support, and ease of setup
