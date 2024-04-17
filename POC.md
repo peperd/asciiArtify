@@ -103,4 +103,4 @@ argocd app sync guestbook
 ```
 This command retrieves the manifests from the repository and performs a kubectl apply of the manifests. The guestbook app is now running and you can now view its resource components, logs, events, and assessed health status.
 
-!agrocd](doc/argocd.gif)
+![agrocd](doc/argocd.gif)
